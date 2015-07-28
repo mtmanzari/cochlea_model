@@ -1,0 +1,1 @@
+This project contains MATLAB codes used to simulate the passive (and active) cochlea.
