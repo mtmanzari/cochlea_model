@@ -1,4 +1,3 @@
-% ib2D.m
 % This script is the main program.
 clear all
 global dt Nb N Nw h rho mu ip im a lambda;
